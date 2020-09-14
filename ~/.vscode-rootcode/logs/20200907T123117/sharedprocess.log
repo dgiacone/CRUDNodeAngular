@@ -1,0 +1,3 @@
+[2020-09-07 12:31:21.243] [sharedprocess] [info] main {"machineId":"07652bcb3add2ba5f101c805fc86616b08138d46723286227a85906dc781c634","windowId":2}
+[2020-09-07 12:31:21.286] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/damian/angular/angular-node/~/.vscode-rootcode/User/snippets'
+[2020-09-07 12:32:01.264] [sharedprocess] [info] Starting to clean up unused language packs.

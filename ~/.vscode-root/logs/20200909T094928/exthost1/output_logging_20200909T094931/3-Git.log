@@ -1,0 +1,397 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/damian/angular/angular-node/client
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/components/navigation/navigation.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/navigation/navigation.component.html
+> git show --textconv :src/app/components/navigation/navigation.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/navigation/navigation.component.ts
+> git show --textconv :src/app/components/navigation/navigation.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/navigation/navigation.component.html
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/services/games.service.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/services/games.service.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/services/games.service.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/services/games.service.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-list/game-list.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-list/game-list.component.ts
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git show --textconv :src/app/components/game-form/game-form.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.ts
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/game-form/game-form.component.html
+> git ls-files --stage -- /home/damian/angular/angular-node/client/src/app/components/game-form/game-form.component.html
